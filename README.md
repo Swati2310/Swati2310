@@ -6,7 +6,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: swati.swati@stonybrook.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Creating art is like therapy for me
+- ⚡ Fun fact: Creating an art is like therapy for me
 <!--
 **Swati2310/Swati2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
