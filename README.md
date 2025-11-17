@@ -2,11 +2,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Swati2310)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swati-swati-eng/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swati.swati@stonybrook.edu)
-- 🔭 I’m currently learning MLOps, Statistical Learning, Statisitcal Computing, Programming abstractions.
+- 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and large-scale data engineering.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: swati.swati@stonybrook.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Creating an art is like therapy for me
+- ⚡ Fun fact: Creating any kind of art is like therapy for me
 <!--
 **Swati2310/Swati2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
