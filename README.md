@@ -1,6 +1,12 @@
-
-# 💫 About Me:
-🎓 I’m a Data Science graduate student at Stony Brook University with 4+ years of experience as a Senior Software Engineer at Infosys, building scalable cloud-native systems for enterprise banking clients.<br><br>🚀 I’m currently working on<br>AI-powered forecasting systems, multilingual RAG pipelines, and large-scale recommender systems using HPC + distributed ML.<br><br>🤝 I’m looking to collaborate on<br>MLOps, LLM-based applications, GenAI products, and scalable ML infrastructure projects.<br><br>🛠 I’m looking for help with<br>Advanced LLM optimization (QLoRA, vLLM), production-grade AI deployment patterns, and distributed model serving.<br><br>🌱 I’m currently learning<br>Cross-lingual retrieval systems, vector databases, and large-scale deep learning on multi-GPU clusters.<br><br>💬 Ask me about<br>XGBoost forecasting in production, OpenShift/Kubernetes DevOps, RAG architectures, or building AI products end-to-end.<br><br>⚡ Fun fact<br>I’ve worked across banking systems, AI startups, and HPC clusters — from managing Finacle deployments to deploying ML models on serverless infra.
+## SUNY-SBU GRAD 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Swati2310)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swati-swati-eng/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swati.swati@stonybrook.edu)
+- 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and large-scale data engineering.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: swati.swati@stonybrook.edu
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Creating any kind of art is like therapy for me
 
 
 ## 🌐 Socials:
