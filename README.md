@@ -1,5 +1,7 @@
 ## Hey! I'm SBU GRAD 👋
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Swati2310)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://swati2310.github.io/)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swati-swati-eng/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swati.swati@stonybrook.edu)
 - 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and large-scale data engineering.
