@@ -1,6 +1,6 @@
 ## Hey! I'm SBU GRAD 👋
 
-- 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and large-scale data engineering.
+- 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and Optimisation and Efficiency and large-scale data engineering.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: swati.swati@stonybrook.edu
 - 😄 Pronouns: She/Her
