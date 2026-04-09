@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning Generative AI, RAG systems, MLOps , LLM deployment workflows and Optimisation and Efficiency and large-scale data engineering.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: swati.swati@stonybrook.edu
+- 📫 How to reach me: swati.guleria2319@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Creating any kind of art is like therapy for me
 
